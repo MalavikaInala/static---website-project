@@ -3,8 +3,7 @@
 
 Project: Static Website Hosting
 
-GitHub Repo:
-https://github.com/your-username/static-website-project
+http://malavika-1234-bucket.s3-website-us-east-1.amazonaws.com
 
-Live Website:
-https://your-username.github.io/static-website-project/
+
+http://d2g3bhi0bf93gu.cloudfront.net
